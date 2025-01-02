@@ -25,7 +25,7 @@ This script calculates the sizes of specified directories in an Azure Data Lake 
 
 ## Usage
 
-1. Create a JSON file containing the list of directory paths you want to check. For example, [directory_paths.json](http://_vscodecontentref_/2):
+1. Create a JSON file containing the list of directory paths you want to check. For example, [directory_paths.json] as below:
     ```json
     [
         "path/to/directory1",
